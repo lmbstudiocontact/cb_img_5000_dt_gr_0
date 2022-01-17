@@ -1,1464 +1,1527 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_5/raw/main/wish_cb_img_5000_it.json",
-    "id_item": "wish_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/headgear_cb_img_5000_it.json",
+    "id_item": "headgear_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "wish",
+    "english": "headgear",
     "list_mean": [
-      "ước",
-      "yêu cầu",
-      "chúc",
-      "mong ước",
-      "điều ước",
-      "lời chúc"
+      "mũ lưỡi trai"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-256873483",
+    "hash_code_list_mean": "-845276427",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072755_b07046c28f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072755_c20b88dbb1_o.png",
-        "id_image": "wish_2773044"
+        "link_thumb": "https://live.staticflickr.com/65535/51809697459_2957eea07d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697459_6d579e1c15_o.png",
+        "id_image": "headgear_1485064"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072810_350cc3b245_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072810_4bc6e95eef_o.png",
-        "id_image": "wish_994643"
+        "link_thumb": "https://live.staticflickr.com/65535/51809342241_65a5bd8de3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809342241_d927a2323b_o.png",
+        "id_image": "headgear_1505378"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809342276_a4d44605e0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809342276_1882e45b8c_o.png",
+        "id_image": "headgear_459012"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697389_7f188a8928_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697389_16a9a0be8a_o.png",
+        "id_image": "headgear_5588973"
       }
     ],
-    "hash_code_list_img": "-811106768"
+    "hash_code_list_img": "-1248804921"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/surface_cb_img_5000_it.json",
-    "id_item": "surface_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/surprise_cb_img_5000_it.json",
+    "id_item": "surprise_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "surface",
+    "english": "surprise",
     "list_mean": [
-      "bề ngoài, bề mặt",
-      "mặt, mặt ngoài",
-      "rải, trát",
-      "nổi lên mặt nước"
+      "sự ngạc nhiên, sự bất ngờ",
+      "làm ngạc nhiên, làm kinh ngạc",
+      "bất thình lình đẩy đến chỗ",
+      "đột kích, đánh úp"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-970371806",
+    "hash_code_list_mean": "438389520",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072925_7c856e602d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072925_ee663e8bf0_o.png",
-        "id_image": "surface_1808780"
+        "link_thumb": "https://live.staticflickr.com/65535/51809450553_4a6893cdfb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450553_1b95581d54_o.png",
+        "id_image": "surprise_5020357"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808381012_8f6da61f6e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808381012_28ed1b3eb9_o.png",
-        "id_image": "surface_3182027"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809450893_46d0463952_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809450893_d932c335db_o.png",
-        "id_image": "surface_6257725"
+        "link_thumb": "https://live.staticflickr.com/65535/51809690739_dfa1f0744f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690739_c1a65e9ea1_o.png",
+        "id_image": "surprise_5020359"
       }
     ],
-    "hash_code_list_img": "712533538"
+    "hash_code_list_img": "1946800361"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_5/raw/main/wrench_cb_img_5000_it.json",
-    "id_item": "wrench_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/raid_cb_img_5000_it.json",
+    "id_item": "raid_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "wrench",
+    "english": "raid",
     "list_mean": [
-      "giật mạnh",
-      "trật khớp",
-      "sự giật mạnh",
-      "chìa vặn"
+      "cuộc đột kích",
+      "đột kích",
+      "lục lọi"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-851929939",
+    "hash_code_list_mean": "-1837766123",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808377612_29ffa0bf71_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808377612_310364248e_o.png",
-        "id_image": "wrench_1768196"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809447813_d40b5ff458_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809447813_0826f5412e_o.png",
-        "id_image": "wrench_2137963"
+        "link_thumb": "https://live.staticflickr.com/65535/51809455493_6a2f609af5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809455493_2f4d216c19_o.png",
+        "id_image": "raid_750592"
       }
     ],
-    "hash_code_list_img": "420976254"
+    "hash_code_list_img": "1977263495"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/autonomy_cb_img_5000_it.json",
-    "id_item": "autonomy_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/holiday_cb_img_5000_it.json",
+    "id_item": "holiday_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "autonomy",
+    "english": "holiday",
     "list_mean": [
-      "quyền tự trị"
+      "ngày nghỉ",
+      "thời gian nghỉ"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1859156231",
+    "hash_code_list_mean": "470573028",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810061745_bd537a6011_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810061745_c904800f25_o.png",
-        "id_image": "autonomy_1719937"
+        "link_thumb": "https://live.staticflickr.com/65535/51809690059_45a6a9874d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690059_a8415d8b0b_o.png",
+        "id_image": "holiday_2569878"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809324766_276c56100d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809324766_33931246cb_o.png",
-        "id_image": "autonomy_6213282"
+        "link_thumb": "https://live.staticflickr.com/65535/51810071855_2bd1f8a2a8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071855_075ff5426d_o.png",
+        "id_image": "holiday_2855569"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689954_d58302e9eb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689954_70031dedb2_o.png",
+        "id_image": "holiday_5020319"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334806_344bf8e0bf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334806_1023260e87_o.png",
+        "id_image": "holiday_5020459"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689889_ee6a1341e3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689889_3089a61f08_o.png",
+        "id_image": "holiday_5775604"
       }
     ],
-    "hash_code_list_img": "-1708441960"
+    "hash_code_list_img": "661951819"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/membership_cb_img_5000_it.json",
-    "id_item": "membership_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/generation_cb_img_5000_it.json",
+    "id_item": "generation_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "membership",
+    "english": "generation",
     "list_mean": [
-      "tư cách thành viên",
-      "hội viên",
-      "phí hội viên"
+      "thế hệ"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1304771732",
+    "hash_code_list_mean": "-643412749",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809347771_8162974897_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809347771_d49929ed1e_o.png",
-        "id_image": "membership_2016300"
+        "link_thumb": "https://live.staticflickr.com/65535/51809336326_8114001da1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336326_5e597e88d0_o.png",
+        "id_image": "generation_3220663"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809462513_9834557d46_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809462513_0f94f83e71_o.png",
-        "id_image": "membership_5072000"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809347691_f2b62a6cec_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809347691_44dc565412_o.png",
-        "id_image": "membership_5301441"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809462443_f28e1026a3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809462443_8a02f51740_o.png",
-        "id_image": "membership_5455944"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808392557_efd23385f2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808392557_97b001b04b_o.png",
-        "id_image": "membership_5983730"
+        "link_thumb": "https://live.staticflickr.com/65535/51809691614_3673e6df89_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691614_48b9869d34_o.png",
+        "id_image": "generation_5225027"
       }
     ],
-    "hash_code_list_img": "1089998496"
+    "hash_code_list_img": "1207518287"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/finish_cb_img_5000_it.json",
-    "id_item": "finish_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/royalty_cb_img_5000_it.json",
+    "id_item": "royalty_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "finish",
+    "english": "royalty",
     "list_mean": [
-      "kết thúc",
-      "ăn, uống hoặc dùng phần còn lại của cái gì",
-      "tình trạng đuợc hoàn tất",
-      "phần cuối; đích"
+      "nhuận bút",
+      "hoàng tộc"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1136326221",
+    "hash_code_list_mean": "1993152217",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809441923_c30fce847c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809441923_9fe812a061_o.png",
-        "id_image": "finish_1929097"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809441978_641e546cff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809441978_71762d5299_o.png",
-        "id_image": "finish_495469"
+        "link_thumb": "https://live.staticflickr.com/65535/51808385322_5b33761ee3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385322_58ea8bdd0a_o.png",
+        "id_image": "royalty_2653360"
       }
     ],
-    "hash_code_list_img": "-556284710"
+    "hash_code_list_img": "1674565410"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/divide_cb_img_5000_it.json",
-    "id_item": "divide_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/rotate_cb_img_5000_it.json",
+    "id_item": "rotate_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "divide",
+    "english": "rotate",
     "list_mean": [
-      "phân chia",
-      "chia sẻ",
-      "chia"
+      "quay tròn"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1760265366",
+    "hash_code_list_mean": "-942748387",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809668019_4ba74e94aa_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809668019_3b4de01055_o.png",
-        "id_image": "divide_1589480"
+        "link_thumb": "https://live.staticflickr.com/65535/51809341806_7a5e17d3af_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341806_527a00e2a1_o.png",
+        "id_image": "rotate_219657"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809668004_82f94bb2a7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809668004_c39cc6cffa_o.png",
-        "id_image": "divide_1753659"
+        "link_thumb": "https://live.staticflickr.com/65535/51808386817_1560d3fc7a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808386817_8c68092cf8_o.png",
+        "id_image": "rotate_3646027"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810049630_16355f00cc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810049630_c535819567_o.png",
-        "id_image": "divide_1827171"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809427963_ffe06be0fc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809427963_1586c3ca30_o.png",
-        "id_image": "divide_5376871"
+        "link_thumb": "https://live.staticflickr.com/65535/51809456603_6b483008dd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809456603_eb1b45d0cf_o.png",
+        "id_image": "rotate_4542652"
       }
     ],
-    "hash_code_list_img": "-868609698"
+    "hash_code_list_img": "-1483103415"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/gloss_cb_img_5000_it.json",
-    "id_item": "gloss_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/plum_cb_img_5000_it.json",
+    "id_item": "plum_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "gloss",
+    "english": "plum",
     "list_mean": [
-      "láng bóng",
-      "chú thích"
+      "quả mận"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-152294664",
+    "hash_code_list_mean": "-787146228",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375762_eaf74c14f4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375762_f3c834e727_o.png",
-        "id_image": "gloss_1414921"
+        "link_thumb": "https://live.staticflickr.com/65535/51809695159_ebde6e93c2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809695159_18626501f2_o.png",
+        "id_image": "plum_1135500"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810067900_b49c100227_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810067900_c90f5600f7_o.png",
-        "id_image": "gloss_372169"
+        "link_thumb": "https://live.staticflickr.com/65535/51808384792_92894c629e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808384792_23b3b85500_o.png",
+        "id_image": "plum_2358295"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686159_68c3c4a0d7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686159_a5d26384e7_o.png",
-        "id_image": "gloss_545102"
+        "link_thumb": "https://live.staticflickr.com/65535/51809339881_7402211e3d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809339881_5f339d33ba_o.png",
+        "id_image": "plum_3800523"
       }
     ],
-    "hash_code_list_img": "537356466"
+    "hash_code_list_img": "1036335537"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/storehouse_cb_img_5000_it.json",
-    "id_item": "storehouse_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/documentary_cb_img_5000_it.json",
+    "id_item": "documentary_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "storehouse",
+    "english": "documentary",
     "list_mean": [
-      "buồng kho"
+      "thuộc tài liệu",
+      "phim tài liệu"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1841223478",
+    "hash_code_list_mean": "459703056",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808389907_75c42b519f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808389907_bdda115cdd_o.png",
-        "id_image": "storehouse_351871"
+        "link_thumb": "https://live.staticflickr.com/65535/51809426758_2f8a36723f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809426758_5da894ace3_o.png",
+        "id_image": "documentary_2040660"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809344936_6780388daf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809344936_b3e6bdd5d0_o.png",
-        "id_image": "storehouse_384012"
+        "link_thumb": "https://live.staticflickr.com/65535/51810048490_8b905ae640_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810048490_fb2d4a9ef4_o.png",
+        "id_image": "documentary_5190261"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809459703_9e3904a87f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809459703_eaf0fc0240_o.png",
-        "id_image": "storehouse_5439106"
+        "link_thumb": "https://live.staticflickr.com/65535/51810048460_a4d090f45b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810048460_6496610b95_o.png",
+        "id_image": "documentary_6347682"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809666744_4275b8734e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809666744_765ce9ef00_o.png",
+        "id_image": "documentary_6347699"
       }
     ],
-    "hash_code_list_img": "1967974937"
+    "hash_code_list_img": "1153417953"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/tuition_cb_img_5000_it.json",
-    "id_item": "tuition_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/swift_cb_img_5000_it.json",
+    "id_item": "swift_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "tuition",
+    "english": "swift",
     "list_mean": [
-      "sự gia sư",
-      "học phí"
+      "mau, nhanh, lẹ",
+      "chim én"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1711773460",
+    "hash_code_list_mean": "-209444208",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808374602_c7f687eb1f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808374602_ff32f0bb1f_o.png",
-        "id_image": "tuition_2387683"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810066610_0dd21bb18d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810066610_9bef61734b_o.png",
-        "id_image": "tuition_4650660"
+        "link_thumb": "https://live.staticflickr.com/65535/51809687564_f7bb1913d3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687564_ce82fdb705_o.png",
+        "id_image": "swift_2927923"
       }
     ],
-    "hash_code_list_img": "-2061654618"
+    "hash_code_list_img": "352639792"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/barrel_cb_img_5000_it.json",
-    "id_item": "barrel_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/scene_cb_img_5000_it.json",
+    "id_item": "scene_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "barrel",
+    "english": "scene",
     "list_mean": [
-      "thùng",
-      "nòng súng"
+      "quang cảnh, hiện trường",
+      "cảnh tượng",
+      "trận cãi lộn",
+      "quang cảnh",
+      "đoạn, hồi, cảnh (của một vở kịch)",
+      "sự dàn cảnh",
+      "tình hình"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "554581030",
+    "hash_code_list_mean": "-1210511155",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809669634_f2e50d4eb5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809669634_9c6e4cfb91_o.png",
-        "id_image": "barrel_123988"
+        "link_thumb": "https://live.staticflickr.com/65535/51809686659_725e11921d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686659_f632c20f58_o.png",
+        "id_image": "scene_1460485"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809314941_d8577d72f7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809314941_95781f2462_o.png",
-        "id_image": "barrel_1580248"
+        "link_thumb": "https://live.staticflickr.com/65535/51809446693_dc638b7d11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446693_5fd69cc97b_o.png",
+        "id_image": "scene_188980"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809429838_9c69f7955c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809429838_e82d48633c_o.png",
-        "id_image": "barrel_827185"
+        "link_thumb": "https://live.staticflickr.com/65535/51808376332_a0bca93d0a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376332_3ff055ab89_o.png",
+        "id_image": "scene_2526737"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446588_c441e39cfc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446588_f44f4f96d4_o.png",
+        "id_image": "scene_4133253"
       }
     ],
-    "hash_code_list_img": "-473932329"
+    "hash_code_list_img": "-2065443531"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/amnesia_cb_img_5000_it.json",
-    "id_item": "amnesia_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/aubergine_cb_img_5000_it.json",
+    "id_item": "aubergine_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "amnesia",
+    "english": "aubergine",
     "list_mean": [
-      "chứng hay quên"
+      "cà tím"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-342316950",
+    "hash_code_list_mean": "-1252740368",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809429148_9cd81a556d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809429148_007e73851a_o.png",
-        "id_image": "amnesia_3997691"
+        "link_thumb": "https://live.staticflickr.com/65535/51809442713_f4f0fa58a1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442713_db27753f28_o.png",
+        "id_image": "aubergine_3137023"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809429108_84951000fa_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809429108_15e8ab7cd7_o.png",
-        "id_image": "amnesia_6349816"
+        "link_thumb": "https://live.staticflickr.com/65535/51808372447_b04b88e1d4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808372447_d31308570c_o.png",
+        "id_image": "aubergine_413288"
       }
     ],
-    "hash_code_list_img": "777078453"
+    "hash_code_list_img": "-257754856"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/chalk_cb_img_5000_it.json",
-    "id_item": "chalk_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/absent_cb_img_5000_it.json",
+    "id_item": "absent_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "chalk",
+    "english": "absent",
     "list_mean": [
-      "đá phấn",
-      "phấn viết"
+      "vắng mặt",
+      "không có mặt"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1700147511",
+    "hash_code_list_mean": "-1993860177",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315066_6cb0a0a59e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315066_f22e01a453_o.png",
-        "id_image": "chalks_546642"
+        "link_thumb": "https://live.staticflickr.com/65535/51809682374_a979bce038_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682374_0c6198ff5b_o.png",
+        "id_image": "absent_4776097"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315106_7c58fbe504_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315106_da509b5612_o.png",
-        "id_image": "chalk_1298728"
+        "link_thumb": "https://live.staticflickr.com/65535/51809442228_ce8252b9bf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442228_d59d3722cc_o.png",
+        "id_image": "absent_4784979"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809430043_4653d99204_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809430043_1831b8499a_o.png",
-        "id_image": "chalk_200427"
+        "link_thumb": "https://live.staticflickr.com/65535/51808371852_6934bfe2d1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371852_ebea3db17d_o.png",
+        "id_image": "absent_4797103"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808359202_5379567953_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808359202_efa3d1926a_o.png",
-        "id_image": "chalk_4539150"
+        "link_thumb": "https://live.staticflickr.com/65535/51809327066_8498090f4f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327066_312b28f68a_o.png",
+        "id_image": "absent_5110182"
       }
     ],
-    "hash_code_list_img": "-968062161"
+    "hash_code_list_img": "950380856"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/cramp_cb_img_5000_it.json",
-    "id_item": "cramp_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/airport_cb_img_5000_it.json",
+    "id_item": "airport_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "cramp",
+    "english": "airport",
     "list_mean": [
-      "chuột rút",
-      "bị chuột rút",
-      "cản trở"
+      "sân bay"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1658250715",
+    "hash_code_list_mean": "1261567000",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810061000_6f7cc372e0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810061000_10b5064e55_o.png",
-        "id_image": "cramp_1813423"
+        "link_thumb": "https://live.staticflickr.com/65535/51809317411_3157ec6c07_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809317411_00c2171fe1_o.png",
+        "id_image": "airport_2169353"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809679284_346bedd655_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809679284_9b1fb218f5_o.png",
-        "id_image": "cramp_2243595"
+        "link_thumb": "https://live.staticflickr.com/65535/51808361727_b3813044f3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808361727_2798472b85_o.png",
+        "id_image": "airport_2569850"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809679179_3042531131_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809679179_2fa82b3801_o.png",
-        "id_image": "cramp_3997953"
+        "link_thumb": "https://live.staticflickr.com/65535/51809672089_bbe7c1ec97_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809672089_511942345f_o.png",
+        "id_image": "airport_4327378"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809672184_1ecea98368_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809672184_e6e459ae2e_o.png",
+        "id_image": "airport_674501"
       }
     ],
-    "hash_code_list_img": "536626103"
+    "hash_code_list_img": "-98073469"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/flammable_cb_img_5000_it.json",
-    "id_item": "flammable_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/lavender_cb_img_5000_it.json",
+    "id_item": "lavender_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "flammable",
+    "english": "lavender",
     "list_mean": [
-      "bén lửa; dễ cháy"
+      "cây oải hương",
+      "màu của hoa oải hương"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-922546065",
+    "hash_code_list_mean": "713228256",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809323316_3eacc7a10a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809323316_77e7b52496_o.png",
-        "id_image": "flammable_1501196"
+        "link_thumb": "https://live.staticflickr.com/65535/51809673509_bd6515be06_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809673509_dca37ec960_o.png",
+        "id_image": "lavender_3006170"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808368192_bd7779f8dd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808368192_c009caa069_o.png",
-        "id_image": "flammable_3296552"
+        "link_thumb": "https://live.staticflickr.com/65535/51809318696_4961877f71_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318696_d1f30596d4_o.png",
+        "id_image": "lavender_436625"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809323251_d0d8f6d278_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809323251_45cdc840b7_o.png",
-        "id_image": "flammable_5640887"
+        "link_thumb": "https://live.staticflickr.com/65535/51810055255_333da3433c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810055255_3b6c887fa9_o.png",
+        "id_image": "lavender_4383982"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808368117_f84b99b7e3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808368117_f15d7928f5_o.png",
-        "id_image": "flammable_6192265"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059925_f130ae4785_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059925_463a9da5e7_o.png",
-        "id_image": "flammable_6255445"
+        "link_thumb": "https://live.staticflickr.com/65535/51809673419_5b5b1385c4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809673419_a05cbc4331_o.png",
+        "id_image": "lavender_5389265"
       }
     ],
-    "hash_code_list_img": "1006916420"
+    "hash_code_list_img": "-325845962"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/sinus_cb_img_5000_it.json",
-    "id_item": "sinus_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/deal_cb_img_5000_it.json",
+    "id_item": "deal_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "sinus",
+    "english": "deal",
     "list_mean": [
-      "xoang"
+      "sự thỏa thuận trong kinh doanh",
+      "sự chia bài",
+      "kinh doanh",
+      "chia bài"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "114226082",
+    "hash_code_list_mean": "-1612109033",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809337131_1bd92facc2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809337131_7752fc1ea3_o.png",
-        "id_image": "sinus_2332814"
+        "link_thumb": "https://live.staticflickr.com/65535/51808352757_84fb0815e1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352757_1337e0ddcd_o.png",
+        "id_image": "deal_1312290"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308576_4bd2888714_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308576_f2b8e5caba_o.png",
+        "id_image": "deal_1441352"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663769_f0a5004481_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663769_a1735b83bb_o.png",
+        "id_image": "deal_4433157"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045475_7c669aa762_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045475_67fd96a572_o.png",
+        "id_image": "deal_5928167"
       }
     ],
-    "hash_code_list_img": "1298242239"
+    "hash_code_list_img": "461035544"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/chief_cb_img_5000_it.json",
-    "id_item": "chief_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/job_cb_img_5000_it.json",
+    "id_item": "job_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "chief",
+    "english": "job",
     "list_mean": [
-      "chủ yếu",
-      "thủ lĩnh"
+      "việc làm",
+      "việc"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1263082028",
+    "hash_code_list_mean": "-1208856728",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809665059_57ba848fe7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809665059_3e4c45088f_o.png",
-        "id_image": "chief_4786257"
+        "link_thumb": "https://live.staticflickr.com/65535/51810070575_77601cf1fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070575_dc99199822_o.png",
+        "id_image": "job_1418575"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688709_f68a1588a4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688709_96333d4a26_o.png",
+        "id_image": "job_5928334"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448683_17c0817d73_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448683_6f3b33b42c_o.png",
+        "id_image": "job_5928348"
       }
     ],
-    "hash_code_list_img": "2033682465"
+    "hash_code_list_img": "-85047002"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/luxury_cb_img_5000_it.json",
-    "id_item": "luxury_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/idea_cb_img_5000_it.json",
+    "id_item": "idea_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "luxury",
+    "english": "idea",
     "list_mean": [
-      "xa xỉ",
-      "xa hoa"
+      "sự hình dung",
+      "quan niệm; ý tưởng",
+      "ý định"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1537404580",
+    "hash_code_list_mean": "1555747260",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446948_414a0aa306_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446948_93b5af97b1_o.png",
-        "id_image": "luxury_4952989"
+        "link_thumb": "https://live.staticflickr.com/65535/51808369562_9b20384c92_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369562_a0bb8820f5_o.png",
+        "id_image": "idea_166375"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808376642_ce241c6ba7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808376642_a1d9757729_o.png",
-        "id_image": "luxury_4954412"
+        "link_thumb": "https://live.staticflickr.com/65535/51809679889_fdfc2b10e2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809679889_74327d2d9c_o.png",
+        "id_image": "idea_287501"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686884_b9c1a50401_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686884_b03ce4883c_o.png",
-        "id_image": "luxury_4954436"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686839_f77fdc3d6d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686839_dd29058a3f_o.png",
-        "id_image": "luxury_4954442"
+        "link_thumb": "https://live.staticflickr.com/65535/51808369517_da99442294_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369517_b755777950_o.png",
+        "id_image": "idea_554796"
       }
     ],
-    "hash_code_list_img": "-1979756170"
+    "hash_code_list_img": "1620589676"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/solve_cb_img_5000_it.json",
-    "id_item": "solve_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/generator_cb_img_5000_it.json",
+    "id_item": "generator_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "solve",
+    "english": "generator",
     "list_mean": [
-      "giải, tìm ra lời giải",
-      "phá(án)"
+      "máy phát điện"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-812893148",
+    "hash_code_list_mean": "-1842473992",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809326101_c6feda482f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809326101_68bb6e94d1_o.png",
-        "id_image": "solution_536921"
+        "link_thumb": "https://live.staticflickr.com/65535/51809451123_b08cc4e833_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451123_e95198d0c7_o.png",
+        "id_image": "generator_4277611"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810062845_cabbdc2235_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810062845_f1d767a02e_o.png",
-        "id_image": "solve_2191253"
+        "link_thumb": "https://live.staticflickr.com/65535/51808381137_90be74d42b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381137_e993fee707_o.png",
+        "id_image": "generator_4815445"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073030_d759289195_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073030_433170fecd_o.png",
+        "id_image": "generator_6002368"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451168_eb1953c94f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451168_e7029ca9de_o.png",
+        "id_image": "generator_778671"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073135_68a227c8ac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073135_25512d9896_o.png",
+        "id_image": "generator_778672"
       }
     ],
-    "hash_code_list_img": "348618247"
+    "hash_code_list_img": "1216984952"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/summer_cb_img_5000_it.json",
-    "id_item": "summer_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/quit_cb_img_5000_it.json",
+    "id_item": "quit_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "summer",
+    "english": "quit",
     "list_mean": [
-      "mùa hè"
+      "bỏ; ngừng"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-941509142",
+    "hash_code_list_mean": "-1830572488",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809693289_c942f72283_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809693289_5eab85c003_o.png",
-        "id_image": "summer_4359944"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808382992_d5053f670c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808382992_7a0e66f968_o.png",
-        "id_image": "summer_4522556"
+        "link_thumb": "https://live.staticflickr.com/65535/51808387887_9c494f4216_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387887_2ac1f8a440_o.png",
+        "id_image": "quit_1686708"
       }
     ],
-    "hash_code_list_img": "-1717712243"
+    "hash_code_list_img": "879576121"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/cress_cb_img_5000_it.json",
-    "id_item": "cress_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/drinker_cb_img_5000_it.json",
+    "id_item": "drinker_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "cress",
+    "english": "drinker",
     "list_mean": [
-      "cải xoong"
+      "kẻ nghiện rượu",
+      "người hay uống"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-839832807",
+    "hash_code_list_mean": "-624724972",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809675989_d1cc3fbce0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809675989_6de37ca6af_o.png",
-        "id_image": "cress_1398249"
+        "link_thumb": "https://live.staticflickr.com/65535/51808383762_91f6ae6831_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383762_a01af61058_o.png",
+        "id_image": "drinker_1818716"
       }
     ],
-    "hash_code_list_img": "1382656647"
+    "hash_code_list_img": "429780535"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/supporter_cb_img_5000_it.json",
-    "id_item": "supporter_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/cheek_cb_img_5000_it.json",
+    "id_item": "cheek_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "supporter",
+    "english": "cheek",
     "list_mean": [
-      "người ủng hộ"
+      "má",
+      "sự hỗn xược"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1884309773",
+    "hash_code_list_mean": "1496401384",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809336246_cdaa430c82_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809336246_27e1ddac1a_o.png",
-        "id_image": "supporter_2333383"
+        "link_thumb": "https://live.staticflickr.com/65535/51809426928_585fcd8f93_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809426928_aa3d27cea3_o.png",
+        "id_image": "cheek_1364822"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809336206_f634941070_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809336206_7558bd6c84_o.png",
-        "id_image": "supporter_2688886"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808381307_4e4d6aefdc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808381307_322644f76c_o.png",
-        "id_image": "supporter_471470"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808381262_033096b375_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808381262_8f93c4a22c_o.png",
-        "id_image": "supporter_927324"
+        "link_thumb": "https://live.staticflickr.com/65535/51809312056_8daf360e0a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809312056_0f56639516_o.png",
+        "id_image": "cheek_5737330"
       }
     ],
-    "hash_code_list_img": "1593437045"
+    "hash_code_list_img": "1140214753"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/flipper_cb_img_5000_it.json",
-    "id_item": "flipper_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/auto_cb_img_5000_it.json",
+    "id_item": "auto_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "flipper",
+    "english": "auto",
     "list_mean": [
-      "(động vật học) chân chèo",
-      "bàn chân người nhái"
+      "xe ô tô",
+      "tự động",
+      "thuộc về chính mình"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "303081535",
+    "hash_code_list_mean": "-1810711663",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810058065_6ba243919a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810058065_0ca0415d45_o.png",
-        "id_image": "flipper_390798"
+        "link_thumb": "https://live.staticflickr.com/65535/51810062615_dafa1043b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062615_d4f0f82e22_o.png",
+        "id_image": "auto_1273300"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810058020_f604762e4e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810058020_90ff1d6d9b_o.png",
-        "id_image": "flipper_4469309"
+        "link_thumb": "https://live.staticflickr.com/65535/51808370567_a9a8b3fe18_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808370567_85c2ecc6f5_o.png",
+        "id_image": "auto_1870845"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440758_9031d76ee1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440758_7867a6b212_o.png",
+        "id_image": "auto_5982567"
       }
     ],
-    "hash_code_list_img": "406281767"
+    "hash_code_list_img": "-945769941"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/picnic_cb_img_5000_it.json",
-    "id_item": "picnic_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/literary_cb_img_5000_it.json",
+    "id_item": "literary_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "picnic",
+    "english": "literary",
     "list_mean": [
-      "cuộc đi chơi",
-      "đi picnic"
+      "văn học",
+      "nhà văn"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1801198186",
+    "hash_code_list_mean": "-1650587159",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809702814_ed3dc00d7e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809702814_d121907899_o.png",
-        "id_image": "picnic_1142694"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809348166_77257c817c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809348166_ae8b894304_o.png",
-        "id_image": "picnic_769632"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809702864_d0c49d7197_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809702864_d5847c3ccd_o.png",
-        "id_image": "picnic_978391"
+        "link_thumb": "https://live.staticflickr.com/65535/51809339716_4285fe1e01_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809339716_7814d15293_o.png",
+        "id_image": "literary_2178155"
       }
     ],
-    "hash_code_list_img": "1433738033"
+    "hash_code_list_img": "1200427442"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/buzzer_cb_img_5000_it.json",
-    "id_item": "buzzer_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/smart_cb_img_5000_it.json",
+    "id_item": "smart_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "buzzer",
+    "english": "smart",
     "list_mean": [
-      "còi"
+      "thanh nhã, lịch sự",
+      "khéo léo, tài tình",
+      "nhanh, mau lẹ",
+      "đau đớn, nhức nhối",
+      "đau khổ",
+      "sự đau đớn, sự nhức nhối"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "102777",
+    "hash_code_list_mean": "1500188707",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809662679_40dd9198f2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809662679_9861636246_o.png",
-        "id_image": "buzzer_2195400"
+        "link_thumb": "https://live.staticflickr.com/65535/51808376447_c80e9e6017_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376447_274baa4de2_o.png",
+        "id_image": "smart_2118746"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810044300_a5b389b2ed_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810044300_6bfa468bd4_o.png",
-        "id_image": "buzzer_5387094"
+        "link_thumb": "https://live.staticflickr.com/65535/51808376387_fb89fa073f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376387_d1a6a1f3b1_o.png",
+        "id_image": "smart_4865945"
       }
     ],
-    "hash_code_list_img": "-645768655"
+    "hash_code_list_img": "-1055766993"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/nest_cb_img_5000_it.json",
-    "id_item": "nest_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/average_cb_img_5000_it.json",
+    "id_item": "average_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "nest",
+    "english": "average",
     "list_mean": [
-      "tổ chim",
-      "làm tổ"
+      "trung bình",
+      "theo chuẩn mực thông thường",
+      "tính trung bình"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "295334401",
+    "hash_code_list_mean": "422004069",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809439393_0483b6d649_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809439393_a6c53152d0_o.png",
-        "id_image": "nest_1809034"
+        "link_thumb": "https://live.staticflickr.com/65535/51809679579_de9d8fb89d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809679579_6e6b511a80_o.png",
+        "id_image": "average_5184373"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808369292_85b592823c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808369292_1be490eb59_o.png",
-        "id_image": "nest_183958"
+        "link_thumb": "https://live.staticflickr.com/65535/51809679539_3b2e58a2d8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809679539_f7221626d5_o.png",
+        "id_image": "average_5360536"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809439358_80f1664592_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809439358_193d5b0cd3_o.png",
-        "id_image": "nest_2851878"
+        "link_thumb": "https://live.staticflickr.com/65535/51810061255_7f90b901c8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810061255_09d6e338b5_o.png",
+        "id_image": "average_5398192"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809324381_a87759d5b2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809324381_1b57405267_o.png",
-        "id_image": "nest_427432"
+        "link_thumb": "https://live.staticflickr.com/65535/51808369152_22ba368979_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369152_ed57ffeee6_o.png",
+        "id_image": "average_5680050"
       }
     ],
-    "hash_code_list_img": "1288000368"
+    "hash_code_list_img": "152956049"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/floral_cb_img_5000_it.json",
-    "id_item": "floral_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/cylinder_cb_img_5000_it.json",
+    "id_item": "cylinder_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "floral",
+    "english": "cylinder",
     "list_mean": [
-      "thuộc về cây cỏ"
+      "hình trụ",
+      "trục",
+      "xi lanh"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1307397393",
+    "hash_code_list_mean": "-755745146",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365412_d60d7f7bee_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365412_de70bd4784_o.png",
-        "id_image": "floral_2448292"
+        "link_thumb": "https://live.staticflickr.com/65535/51809427158_fe9888f3ea_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809427158_dd7c31dcc8_o.png",
+        "id_image": "cylinder_2106599"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809435588_d37e9095ca_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809435588_f8f31cd6ed_o.png",
-        "id_image": "floral_2448314"
+        "link_thumb": "https://live.staticflickr.com/65535/51808356407_4e09f104b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808356407_f284a8c4dc_o.png",
+        "id_image": "cylinder_217220"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365332_590a5ea75b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365332_437a38c58f_o.png",
-        "id_image": "floral_3316826"
+        "link_thumb": "https://live.staticflickr.com/65535/51809667279_46a934df17_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809667279_2caf7bd352_o.png",
+        "id_image": "cylinder_5853947"
       }
     ],
-    "hash_code_list_img": "-1062498794"
+    "hash_code_list_img": "-1788874753"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/medal_cb_img_5000_it.json",
-    "id_item": "medal_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/locust_cb_img_5000_it.json",
+    "id_item": "locust_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "medal",
+    "english": "locust",
     "list_mean": [
-      "huân chương"
+      "châu chấu"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-169878059",
+    "hash_code_list_mean": "114140636",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808362932_4c3d8094a5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808362932_98648a7792_o.png",
-        "id_image": "medal_224759"
+        "link_thumb": "https://live.staticflickr.com/65535/51809452253_62436d18ca_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452253_b88320a61d_o.png",
+        "id_image": "locust_1850312"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808362922_3c56128917_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808362922_1acc87bac7_o.png",
-        "id_image": "medal_250603"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809318366_f78c72cda3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809318366_58105cc722_o.png",
-        "id_image": "medal_702307"
+        "link_thumb": "https://live.staticflickr.com/65535/51808382387_fc67711da0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382387_c77c79e969_o.png",
+        "id_image": "locust_3805703"
       }
     ],
-    "hash_code_list_img": "121582455"
+    "hash_code_list_img": "-1105650863"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/borrow_cb_img_5000_it.json",
-    "id_item": "borrow_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_5/raw/main/vertical_cb_img_5000_it.json",
+    "id_item": "vertical_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "borrow",
+    "english": "vertical",
     "list_mean": [
-      "mượn"
+      "thẳng đứng, dọc"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "3907629",
+    "hash_code_list_mean": "-758344116",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808366917_255a696ef7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808366917_d1f91482b5_o.png",
-        "id_image": "borrow_2112455"
+        "link_thumb": "https://live.staticflickr.com/65535/51809345726_37c97b3037_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809345726_f303847cf9_o.png",
+        "id_image": "vertical_2280398"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809321956_02294dbdba_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809321956_889c12be18_o.png",
-        "id_image": "borrow_2361932"
+        "link_thumb": "https://live.staticflickr.com/65535/51809700864_17dcf8e80a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700864_a291e4cd2f_o.png",
+        "id_image": "vertical_232875"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809321911_29388eb55a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809321911_82c33f3b1d_o.png",
-        "id_image": "borrow_2417791"
+        "link_thumb": "https://live.staticflickr.com/65535/51809700834_09ba0289c2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700834_3f01e6146e_o.png",
+        "id_image": "vertical_232877"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809460478_997d3f8f2a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809460478_c483cfb454_o.png",
+        "id_image": "vertical_3103209"
       }
     ],
-    "hash_code_list_img": "1590034655"
+    "hash_code_list_img": "-324650718"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/fatty_cb_img_5000_it.json",
-    "id_item": "fatty_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_5/raw/main/withdraw_cb_img_5000_it.json",
+    "id_item": "withdraw_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "fatty",
+    "english": "withdraw",
     "list_mean": [
-      "như mỡ; có nhiều mỡ"
+      "rút quân",
+      "lấy lại",
+      "rút tiền"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1048528451",
+    "hash_code_list_mean": "1950796965",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808379347_44b9e0e88a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808379347_c72a58d086_o.png",
-        "id_image": "fatty_3411775"
+        "link_thumb": "https://live.staticflickr.com/65535/51810072605_a967bb73be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072605_84ccfa6e18_o.png",
+        "id_image": "withdraw_4292470"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690869_3dd6327379_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690869_4d21a682ea_o.png",
+        "id_image": "withdraw_6159823"
       }
     ],
-    "hash_code_list_img": "1910946527"
+    "hash_code_list_img": "-1609660311"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/patient_cb_img_5000_it.json",
-    "id_item": "patient_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/marathon_cb_img_5000_it.json",
+    "id_item": "marathon_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "patient",
+    "english": "marathon",
     "list_mean": [
-      "kiên nhẫn",
-      "bệnh nhân"
+      "chạy ma-ra-tông"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "715815277",
+    "hash_code_list_mean": "-952972960",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810064430_b63859716a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810064430_1b294136de_o.png",
-        "id_image": "patient_2454801"
+        "link_thumb": "https://live.staticflickr.com/65535/51808368832_ff2322d19c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368832_9322e4bbf2_o.png",
+        "id_image": "marathon_3708022"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809442718_091eef64b5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809442718_fbfdfde391_o.png",
-        "id_image": "patient_5278459"
+        "link_thumb": "https://live.staticflickr.com/65535/51810060795_3984e208e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060795_5777a35ae9_o.png",
+        "id_image": "marathon_3965879"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808372492_fe220b2452_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808372492_36ced291b8_o.png",
-        "id_image": "patient_706192"
+        "link_thumb": "https://live.staticflickr.com/65535/51808368762_d0e4ce032a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368762_60a7c723b2_o.png",
+        "id_image": "marathon_5200936"
       }
     ],
-    "hash_code_list_img": "-1937430610"
+    "hash_code_list_img": "2119962641"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/supervision_cb_img_5000_it.json",
-    "id_item": "supervision_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/rivalry_cb_img_5000_it.json",
+    "id_item": "rivalry_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "supervision",
+    "english": "rivalry",
     "list_mean": [
-      "sự giám sát"
+      "sự kình địch; sự ganh đua"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "62481781",
+    "hash_code_list_mean": "-1775054165",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809692459_8117df89a1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809692459_f8263a850f_o.png",
-        "id_image": "supervision_5955173"
+        "link_thumb": "https://live.staticflickr.com/65535/51810082680_47a6dd1299_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810082680_6cd3c0becb_o.png",
+        "id_image": "rivalry_708661"
       }
     ],
-    "hash_code_list_img": "1169301990"
+    "hash_code_list_img": "1007760332"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/private_cb_img_5000_it.json",
-    "id_item": "private_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/agreement_cb_img_5000_it.json",
+    "id_item": "agreement_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "private",
+    "english": "agreement",
     "list_mean": [
-      "riêng tư",
-      "cá nhân",
-      "binh nhì"
+      "sự đồng tình",
+      "hợp đồng"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "414355514",
+    "hash_code_list_mean": "-1912793454",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809323861_93525fa7d5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809323861_48a6038f0c_o.png",
-        "id_image": "private_1163402"
+        "link_thumb": "https://live.staticflickr.com/65535/51808362807_bfbb666b95_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808362807_43ac182370_o.png",
+        "id_image": "agreement_1284687"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809679029_f30dfe655c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809679029_b9453e113f_o.png",
-        "id_image": "private_3231365"
+        "link_thumb": "https://live.staticflickr.com/65535/51810054845_407233b5c3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810054845_7ce62500ef_o.png",
+        "id_image": "agreement_1566554"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809438843_cd5deae1f7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809438843_cb018243b9_o.png",
-        "id_image": "private_4428006"
+        "link_thumb": "https://live.staticflickr.com/65535/51810054825_e25052760c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810054825_f9d55b3838_o.png",
+        "id_image": "agreement_1728967"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809323716_9708790fcf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809323716_e356381a18_o.png",
-        "id_image": "private_5352157"
+        "link_thumb": "https://live.staticflickr.com/65535/51809673169_80fea809de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809673169_912e1afe12_o.png",
+        "id_image": "agreement_306858"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809318311_8297861a72_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318311_a26afc2923_o.png",
+        "id_image": "agreement_751808"
       }
     ],
-    "hash_code_list_img": "-950981919"
+    "hash_code_list_img": "1247849514"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/positive_cb_img_5000_it.json",
-    "id_item": "positive_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/mirror_cb_img_5000_it.json",
+    "id_item": "mirror_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "positive",
+    "english": "mirror",
     "list_mean": [
-      "khẳng định; dương tính",
-      "rõ ràng",
-      "chắc chắn",
-      "hoàn toàn",
-      "lạc quan",
-      "ở dạng nguyên",
-      "số dương",
-      "có điện tích",
-      "dương bản",
-      "ở dạng nguyên thể"
+      "gương",
+      "soi gương"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1886701433",
+    "hash_code_list_mean": "1563017614",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808378782_858f446b33_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808378782_0a5a5e6780_o.png",
-        "id_image": "positive_1397175"
+        "link_thumb": "https://live.staticflickr.com/65535/51809696589_4b4452f9d9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696589_55c6a96b2e_o.png",
+        "id_image": "mirror_1043200"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688944_53824703d1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688944_da51fb4db1_o.png",
-        "id_image": "positive_1484946"
+        "link_thumb": "https://live.staticflickr.com/65535/51809696564_90dccf46c3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696564_709925f72b_o.png",
+        "id_image": "mirror_1202537"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688889_6556ecf6d4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688889_c5b73d74e5_o.png",
-        "id_image": "positive_1900269"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808378807_47c63eef27_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808378807_84e2cfe047_o.png",
-        "id_image": "positive_552431"
+        "link_thumb": "https://live.staticflickr.com/65535/51809341411_a2739a032e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341411_dd52222163_o.png",
+        "id_image": "mirror_699316"
       }
     ],
-    "hash_code_list_img": "-1658634018"
+    "hash_code_list_img": "1797278194"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/craftsman_cb_img_5000_it.json",
-    "id_item": "craftsman_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/sit_cb_img_5000_it.json",
+    "id_item": "sit_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "craftsman",
+    "english": "sit",
     "list_mean": [
-      "thợ thủ công"
+      "ngồi",
+      "ở vào vị trí nào đó",
+      "là thành viên chính thức của",
+      "đậu",
+      "là thí sinh của một kì thi",
+      "ngồi làm mẫu để vẽ chân dung",
+      "họp"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "124547495",
+    "hash_code_list_mean": "760285576",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809439183_b8d757ae92_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809439183_451cd0da67_o.png",
-        "id_image": "craftsman_1909951"
+        "link_thumb": "https://live.staticflickr.com/65535/51809692124_7490a2f6a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692124_6af30234c9_o.png",
+        "id_image": "sit_619179"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810061065_c1d9baaf29_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810061065_83e228af89_o.png",
-        "id_image": "craftsman_875286"
+        "link_thumb": "https://live.staticflickr.com/65535/51809336756_eef75e76a0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336756_6d5c884c3b_o.png",
+        "id_image": "sit_6401005"
       }
     ],
-    "hash_code_list_img": "189821850"
+    "hash_code_list_img": "527530999"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/desktop_cb_img_5000_it.json",
-    "id_item": "desktop_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_3/raw/main/recovery_cb_img_5000_it.json",
+    "id_item": "recovery_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "desktop",
+    "english": "recovery",
     "list_mean": [
-      "bàn giấy",
-      "màn hình desktop"
+      "sự bình phục"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "388452986",
+    "hash_code_list_mean": "-362626033",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808373182_aa27614bc2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808373182_a7aa4fa312_o.png",
-        "id_image": "desktop_1283443"
+        "link_thumb": "https://live.staticflickr.com/65535/51809334091_8728b57772_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334091_139c313076_o.png",
+        "id_image": "recovery_1564280"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810065225_cac762f908_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810065225_7b64d040d6_o.png",
-        "id_image": "desktop_2287973"
+        "link_thumb": "https://live.staticflickr.com/65535/51809334061_f36e2b6a14_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334061_a1dd577277_o.png",
+        "id_image": "recovery_3063585"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809443493_f6e434fb5f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809443493_71173e4c40_o.png",
-        "id_image": "desktop_538086"
+        "link_thumb": "https://live.staticflickr.com/65535/51808378882_a1b82e2c5b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378882_bac03ac979_o.png",
+        "id_image": "recovery_5116226"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809443388_39d34257b7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809443388_5c0d422c8f_o.png",
-        "id_image": "desktop_5512041"
+        "link_thumb": "https://live.staticflickr.com/65535/51809689189_662f4f8dc8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689189_1e19bcf345_o.png",
+        "id_image": "recovery_719159"
       }
     ],
-    "hash_code_list_img": "-467340841"
+    "hash_code_list_img": "1580556919"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/kid_cb_img_5000_it.json",
-    "id_item": "kid_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/spiral_cb_img_5000_it.json",
+    "id_item": "spiral_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "kid",
+    "english": "spiral",
     "list_mean": [
-      "trẻ em",
-      "dê con",
-      "da dê non",
-      "lừa gạt"
+      "có dạng xoắn",
+      "xoắn ốc",
+      "sự tăng giảm dần",
+      "đường xoắn ốc",
+      "tăng, giảm dần"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1650713124",
+    "hash_code_list_mean": "1100010688",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810064900_7bf52a5f8e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810064900_cfca37876e_o.png",
-        "id_image": "kid_3372910"
+        "link_thumb": "https://live.staticflickr.com/65535/51809353746_b57ff8d9e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809353746_54dcd6589a_o.png",
+        "id_image": "spiral_1754068"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328116_6af7e0a163_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328116_d043af70e2_o.png",
-        "id_image": "kid_5233559"
+        "link_thumb": "https://live.staticflickr.com/65535/51809353721_1043e0cfd6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809353721_db25d49bc9_o.png",
+        "id_image": "spiral_6092108"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328061_aa4cd0c27e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328061_dbd8b270a7_o.png",
-        "id_image": "kid_5333174"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808372937_ec55b19a8c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808372937_1456b08860_o.png",
-        "id_image": "kid_616027"
+        "link_thumb": "https://live.staticflickr.com/65535/51809468498_09e0ebc115_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809468498_53b719bdab_o.png",
+        "id_image": "spiral_6365773"
       }
     ],
-    "hash_code_list_img": "1958468469"
+    "hash_code_list_img": "1702638362"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/dragon_cb_img_5000_it.json",
-    "id_item": "dragon_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/snowstorm_cb_img_5000_it.json",
+    "id_item": "snowstorm_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "dragon",
+    "english": "snowstorm",
     "list_mean": [
-      "con rồng"
+      "bão tuyết"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-637032937",
+    "hash_code_list_mean": "199844602",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810044035_4629b58940_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810044035_b45f11c8a0_o.png",
-        "id_image": "dragon_292010"
+        "link_thumb": "https://live.staticflickr.com/65535/51809328376_72d4949483_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328376_02ac9272d7_o.png",
+        "id_image": "snowstorm_2526669"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810044000_978d2d79a3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810044000_a428f4062b_o.png",
-        "id_image": "dragon_774949"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809662264_2d1cbf0c02_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809662264_b1e3543170_o.png",
-        "id_image": "dragon_982782"
+        "link_thumb": "https://live.staticflickr.com/65535/51809443343_660a1c367c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443343_2852bac48d_o.png",
+        "id_image": "snowstorm_4060916"
       }
     ],
-    "hash_code_list_img": "1064291296"
+    "hash_code_list_img": "-1232833747"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/bevel_cb_img_5000_it.json",
-    "id_item": "bevel_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/address_cb_img_5000_it.json",
+    "id_item": "address_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "bevel",
+    "english": "address",
     "list_mean": [
-      "góc xiên"
+      "đề địa chỉ",
+      "nói với hay viết cho ai",
+      "chú tâm đến",
+      "xưng hô",
+      "địa chỉ",
+      "bài diễn văn"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1391577699",
+    "hash_code_list_mean": "645880676",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808351032_7653cbcfb2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808351032_c670a6b912_o.png",
-        "id_image": "bevel_3348924"
+        "link_thumb": "https://live.staticflickr.com/65535/51810057970_b48fb0cb83_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810057970_a36a5faa37_o.png",
+        "id_image": "address_1076323"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808350982_675c60e71f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808350982_3e29f8d0ff_o.png",
-        "id_image": "bevel_3468241"
+        "link_thumb": "https://live.staticflickr.com/65535/51809321166_5445c7558e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809321166_90cb0678d1_o.png",
+        "id_image": "address_1915040"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810057890_764bfaf66c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810057890_a10821fac9_o.png",
+        "id_image": "address_3163168"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809321076_6178415433_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809321076_b58a8f3f59_o.png",
+        "id_image": "address_5778919"
       }
     ],
-    "hash_code_list_img": "1138942489"
+    "hash_code_list_img": "-1634510691"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/humour_cb_img_5000_it.json",
-    "id_item": "humour_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/classic_cb_img_5000_it.json",
+    "id_item": "classic_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "humour",
+    "english": "classic",
     "list_mean": [
-      "biết đùa",
-      "sự hài hước",
-      "làm vừa lòng"
+      "hạng nhất",
+      "kinh điển",
+      "cổ điển",
+      "tác phẩm kinh điển",
+      "văn học cổ Hy lạp"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1537803027",
+    "hash_code_list_mean": "-1367128764",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809442943_c19523da48_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809442943_481f8b1fa6_o.png",
-        "id_image": "humour_2178177"
+        "link_thumb": "https://live.staticflickr.com/65535/51808349272_4b285d628b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349272_ff74a1c246_o.png",
+        "id_image": "classic_1312859"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808349247_73e948185a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349247_3c26b8194e_o.png",
+        "id_image": "classic_5318799"
       }
     ],
-    "hash_code_list_img": "1056497240"
+    "hash_code_list_img": "949814108"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/dentist_cb_img_5000_it.json",
-    "id_item": "dentist_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/dumb_cb_img_5000_it.json",
+    "id_item": "dumb_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "dentist",
+    "english": "dumb",
     "list_mean": [
-      "nha sỹ"
+      "câm",
+      "lặng đi",
+      "rất ngu đần"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1046782498",
+    "hash_code_list_mean": "1587713774",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446958_bc58d1edac_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446958_44b345e501_o.png",
-        "id_image": "dentist_1331722"
+        "link_thumb": "https://live.staticflickr.com/65535/51809335561_6ba10805d5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335561_846e031e3d_o.png",
+        "id_image": "dumb_2317582"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810068545_8eaaa9e79e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810068545_3b7c71d696_o.png",
-        "id_image": "dentist_1909959"
+        "link_thumb": "https://live.staticflickr.com/65535/51809335526_3ff66398f4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335526_e74b9dd169_o.png",
+        "id_image": "dumb_6313615"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808376602_7fc8240be8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808376602_2a172feeb3_o.png",
-        "id_image": "dentist_1912335"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810068670_16c91efb09_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810068670_ee800e6475_o.png",
-        "id_image": "dentist_979968"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446998_e0f4ff0517_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446998_63b4052dc6_o.png",
-        "id_image": "dentist_980015"
+        "link_thumb": "https://live.staticflickr.com/65535/51810072390_103ddc887b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072390_2f13f7ff89_o.png",
+        "id_image": "dumb_6314082"
       }
     ],
-    "hash_code_list_img": "-2025507063"
+    "hash_code_list_img": "1112884718"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/convertible_cb_img_5000_it.json",
-    "id_item": "convertible_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/bridge_cb_img_5000_it.json",
+    "id_item": "bridge_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "convertible",
+    "english": "bridge",
     "list_mean": [
-      "có thể chuyển đổi được",
-      "ô tô mui trần"
+      "cái cầu",
+      "đài chỉ huy của thuyền trưởng",
+      "sống mũi",
+      "cầu ngựa (mảnh gỗ di động trên đó căng dây đàn violon)",
+      "khắc phục",
+      "xây cầu"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1795760468",
+    "hash_code_list_mean": "343021333",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809660869_e6c1434827_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809660869_9be13cbd91_o.png",
-        "id_image": "convertible_5731839"
+        "link_thumb": "https://live.staticflickr.com/65535/51809316256_7bfc96a1b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809316256_74dd357abc_o.png",
+        "id_image": "bridge_172757"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809670854_db707dea6c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670854_429ef612d4_o.png",
+        "id_image": "bridge_1742466"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808360477_3ee4276b00_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808360477_da2378434f_o.png",
+        "id_image": "bridge_183375"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809316226_0fb9e72558_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809316226_169532bb88_o.png",
+        "id_image": "bridge_3722837"
       }
     ],
-    "hash_code_list_img": "402941640"
+    "hash_code_list_img": "-1139716684"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/dismiss_cb_img_5000_it.json",
-    "id_item": "dismiss_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/knob_cb_img_5000_it.json",
+    "id_item": "knob_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "dismiss",
+    "english": "knob",
     "list_mean": [
-      "sa thải",
-      "thải hồi",
-      "bác bỏ"
+      "chỗ phồng",
+      "nắm đấm cửa"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-489283972",
+    "hash_code_list_mean": "818278903",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315636_360df7c446_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315636_d9a6db81c2_o.png",
-        "id_image": "dismissed_1533220"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809670264_db56a80d1c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809670264_c9e128a691_o.png",
-        "id_image": "dismissed_5692046"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808359922_dd4c94ea5c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808359922_4bd54e9fb0_o.png",
-        "id_image": "dismiss_5692029"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809430603_1b532839cf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809430603_d2f3c1e0c6_o.png",
-        "id_image": "dismiss_5692454"
+        "link_thumb": "https://live.staticflickr.com/65535/51808369997_0d34d06b58_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369997_0f1902dec3_o.png",
+        "id_image": "knob_194417"
       }
     ],
-    "hash_code_list_img": "494033346"
+    "hash_code_list_img": "352234273"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_2/raw/main/lime_cb_img_5000_it.json",
-    "id_item": "lime_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/signature_cb_img_5000_it.json",
+    "id_item": "signature_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "lime",
+    "english": "signature",
     "list_mean": [
-      "vôi",
-      "chanh lá cam",
-      "màu vàng chanh",
-      "cây đoan"
+      "chữ ký",
+      "việc ký cái gì"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "142903006",
+    "hash_code_list_mean": "-1460102160",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809341691_728f975178_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809341691_d439a760d7_o.png",
-        "id_image": "lime_3461679"
+        "link_thumb": "https://live.staticflickr.com/65535/51809339376_eb95d91ae5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809339376_8abc97cd69_o.png",
+        "id_image": "signature_4391557"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809341646_19c949d961_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809341646_41da5e46be_o.png",
-        "id_image": "lime_4796211"
+        "link_thumb": "https://live.staticflickr.com/65535/51808384267_efb9b6cd54_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808384267_e6b15e1cbd_o.png",
+        "id_image": "signature_4736027"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076475_9b3e8c7739_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076475_63e8ddf527_o.png",
+        "id_image": "signature_4827475"
       }
     ],
-    "hash_code_list_img": "1788848133"
+    "hash_code_list_img": "1644766797"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/bun_cb_img_5000_it.json",
-    "id_item": "bun_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/abstract_cb_img_5000_it.json",
+    "id_item": "abstract_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "bun",
+    "english": "abstract",
     "list_mean": [
-      "bánh sữa nhỏ"
+      "trừu tượng",
+      "tác phẩm trừu tượng",
+      "bản tóm tắt"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1869581710",
+    "hash_code_list_mean": "1743472153",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809425778_c5654b9b74_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809425778_2450ce77e5_o.png",
-        "id_image": "bun_3684483"
+        "link_thumb": "https://live.staticflickr.com/65535/51810063950_41ce32336c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063950_dbe28f1a54_o.png",
+        "id_image": "abstract_488316"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810047530_1371654b97_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810047530_49aa8eca48_o.png",
-        "id_image": "bun_3684514"
+        "link_thumb": "https://live.staticflickr.com/65535/51809682194_7fc3a5a783_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682194_75732c4942_o.png",
+        "id_image": "abstract_488324"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810047480_0fb646edda_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810047480_b800334791_o.png",
-        "id_image": "bun_6300337"
+        "link_thumb": "https://live.staticflickr.com/65535/51809682134_73275d21bb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682134_0a5e0d6fc7_o.png",
+        "id_image": "abstract_488334"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809310776_6906ccab89_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809310776_57c75a53e6_o.png",
-        "id_image": "bun_768154"
+        "link_thumb": "https://live.staticflickr.com/65535/51810063835_ef38bf2757_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063835_9fb902eec1_o.png",
+        "id_image": "abstract_488348"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809682019_65ce18d62a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682019_70a81cab31_o.png",
+        "id_image": "abstract_5360768"
       }
     ],
-    "hash_code_list_img": "190181599"
+    "hash_code_list_img": "1662088850"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/dual_cb_img_5000_it.json",
-    "id_item": "dual_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/fiddle_cb_img_5000_it.json",
+    "id_item": "fiddle_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "dual",
+    "english": "fiddle",
     "list_mean": [
-      "đôi"
+      "đàn viôlông",
+      "ngón lừa bịp; sự gian lận",
+      "chơi viôlông",
+      "chơi đùa không cẩn thận cái gì trong tay",
+      "gian lận"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "270053",
+    "hash_code_list_mean": "1753491958",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808380927_993a5fb070_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808380927_7ed80d120b_o.png",
-        "id_image": "dual_3603712"
+        "link_thumb": "https://live.staticflickr.com/65535/51809445828_844506c038_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445828_2aef6e3f5a_o.png",
+        "id_image": "fiddle_2128786"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809691089_4e4e2bf077_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809691089_41a32f780a_o.png",
-        "id_image": "dual_4044551"
+        "link_thumb": "https://live.staticflickr.com/65535/51808375602_37fc3148e4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375602_9da5baf740_o.png",
+        "id_image": "fiddle_350449"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445873_c266a0a9fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445873_390619eb25_o.png",
+        "id_image": "fiddle_352491"
       }
     ],
-    "hash_code_list_img": "1048951891"
+    "hash_code_list_img": "-12199539"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/cucumber_cb_img_5000_it.json",
-    "id_item": "cucumber_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/cap_cb_img_5000_it.json",
+    "id_item": "cap_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "cucumber",
+    "english": "cap",
     "list_mean": [
-      "quả dưa chuột"
+      "mũ lưỡi trai",
+      "mũ vải",
+      "nắp",
+      "bao bọc bởi",
+      "làm tốt hơn",
+      "khoanh vùng"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1845195742",
+    "hash_code_list_mean": "1057781750",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809316486_94e87c8f9b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809316486_55a2ef2dd0_o.png",
-        "id_image": "cucumber_1839345"
+        "link_thumb": "https://live.staticflickr.com/65535/51809329426_6433676aae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809329426_f57b30386e_o.png",
+        "id_image": "cap_184104"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809671129_b3ec4f27e1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809671129_9c533d28a8_o.png",
-        "id_image": "cucumber_5389171"
+        "link_thumb": "https://live.staticflickr.com/65535/51809329336_a471ffb094_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809329336_736681bfc3_o.png",
+        "id_image": "cap_2102013"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809671179_1976d2caac_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809671179_004f20f191_o.png",
-        "id_image": "cucumber_590694"
+        "link_thumb": "https://live.staticflickr.com/65535/51809444373_4cf1fe3e58_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444373_5cf4504d9f_o.png",
+        "id_image": "cap_484421"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810052835_fd712d88de_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810052835_aab82f859f_o.png",
-        "id_image": "cucumber_6108350"
+        "link_thumb": "https://live.staticflickr.com/65535/51810066135_8534bbc7f9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066135_454c33f249_o.png",
+        "id_image": "cap_825944"
       }
     ],
-    "hash_code_list_img": "779277932"
+    "hash_code_list_img": "-867897528"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_0/raw/main/bronze_cb_img_5000_it.json",
-    "id_item": "bronze_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_4/raw/main/sandal_cb_img_5000_it.json",
+    "id_item": "sandal_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "bronze",
+    "english": "sandal",
     "list_mean": [
-      "đồng thiếc",
-      "màu đồng thiếc",
-      "đồ bằng đồng thiếc"
+      "dép, dép xăng đan"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "1853775695",
+    "hash_code_list_mean": "-1463524811",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810051390_009f28fcdc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810051390_7c45fddd9d_o.png",
-        "id_image": "bronze_1921777"
+        "link_thumb": "https://live.staticflickr.com/65535/51809335241_3c73f74904_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335241_8768033471_o.png",
+        "id_image": "sandal_2384727"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808358957_42b59afe8c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808358957_7f4b245a88_o.png",
-        "id_image": "bronze_4033748"
+        "link_thumb": "https://live.staticflickr.com/65535/51809450248_affe84afeb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450248_3fa3aac79a_o.png",
+        "id_image": "sandal_3048070"
       }
     ],
-    "hash_code_list_img": "-365815992"
+    "hash_code_list_img": "953196031"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/converse_cb_img_5000_it.json",
-    "id_item": "converse_cb_img_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_img_5000_it_1/raw/main/dome_cb_img_5000_it.json",
+    "id_item": "dome_cb_img_5000_it",
     "id_album": "570943555",
-    "english": "converse",
+    "english": "dome",
     "list_mean": [
-      "chuyện trò",
-      "điều ngược lại"
+      "mái vòm"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-341641932",
+    "hash_code_list_mean": "198289157",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809305716_1fdfb77d9f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809305716_a5c7fff3c3_o.png",
-        "id_image": "converse_1974761"
+        "link_thumb": "https://live.staticflickr.com/65535/51809665949_23dae5d4b3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809665949_b947151b8f_o.png",
+        "id_image": "dome_1594703"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809665919_dba6be81ca_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809665919_3a76241c61_o.png",
+        "id_image": "dome_2069538"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809425753_1750ecac22_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809425753_1492540740_o.png",
+        "id_image": "dome_2484050"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809310716_69ffc1b5ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809310716_7e243c4d26_o.png",
+        "id_image": "dome_2918268"
       }
     ],
-    "hash_code_list_img": "277393727"
+    "hash_code_list_img": "-959917636"
   }
 ]
